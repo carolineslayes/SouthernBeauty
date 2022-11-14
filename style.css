@@ -1,0 +1,22 @@
+.nav-link {
+    color: #BB9E37; 
+}
+.navbar-brand {
+    color:#BB9E37;
+}
+.active {
+    background: transparent !important;
+    color:#BB9E37 !important;
+    border-bottom: 5px solid #BB9E37;
+
+    border-radius: 0px !important;
+}
+.carousel-control {
+
+    height: 0;
+    width: 100%;
+    background: black;
+    }
+    h3 {
+        color:#BB9E37
+    }
