@@ -1,6 +1,9 @@
 .nav-link {
     color: #BB9E37; 
 }
+.navbar {
+    background-color: #332d2d;
+}
 .navbar-brand {
     color:#BB9E37;
 }
@@ -23,5 +26,3 @@
     .ty{
         color: #BB9E37;
     }
-.bg-image 
-}
