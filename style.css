@@ -28,3 +28,27 @@
 a {
     color:#332d2d
 }
+b {
+    text-align:center;
+}
+
+.bordered {
+
+    padding: 20px;
+    border: 5px solid #BB9E37;
+  }
+
+  .bordered2 {
+    padding:20px;
+    border: 1px solid #585857;
+  }
+
+  .names {
+    color:#887120
+  }
+h4 {
+    color:#887120
+}
+.homepagedresspic {
+    border: 3px solid #BB9E37;
+}
