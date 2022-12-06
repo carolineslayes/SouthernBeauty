@@ -17,19 +17,14 @@
 
     border-radius: 0px !important;
 }
-.carousel-control {
+.indexpic {
+    height: 500px;
+    background-position: center top; 
+    background-image:url(shop2.jpeg)
+}
+.fancytext { font-family:'Times New Roman', Times, serif;
 
-    height: 0;
-    width: 100%;
-    background: black;
-    }
-    h3 {
-        color:#BB9E37
-    }
-    .ty{
-        color:  #332d2d;
-    }
-    .yu{
-        color:#BB9E37
-    }
-    .carousel-inner > .item > img { width:640px; height:360px; }
+}
+a {
+    color:#332d2d
+}
