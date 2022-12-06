@@ -26,7 +26,7 @@
 
 }
 a {
-    color:#332d2d
+    color: #BB9E37
 }
 b {
     text-align:center;
@@ -40,15 +40,23 @@ b {
 
   .bordered2 {
     padding:20px;
-    border: 1px solid #585857;
+    border: 1px solid #ffffff;
   }
 
   .names {
-    color:#887120
+    color:#ffffff
   }
 h4 {
-    color:#887120
+    color:#ffffff
 }
 .homepagedresspic {
-    border: 3px solid #BB9E37;
+    border: 3px solid #ffffff;
+}
+
+body{
+    background-color:#212024
+}
+
+h3 {
+    color: #BB9E37
 }
