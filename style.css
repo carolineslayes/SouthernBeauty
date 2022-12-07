@@ -60,3 +60,20 @@ body{
 h3 {
     color: #BB9E37
 }
+
+.accordion-button:not(.collapsed) {
+   background-color:#212024 ;
+   color: white;
+}
+
+.accordion-button {
+    background-color: #212024;
+    color: white ;
+    font-size: 25px;
+}
+
+.accordion-body {
+    background-color: #212024;
+    color: white;
+    font-size: 18px;
+}
