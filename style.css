@@ -60,9 +60,11 @@ body{
 h3 {
     color: #BB9E37
 }
-.yu{
-    color:#BB9E37
+.mx-4{
+    font-family:'Times New Roman', Times, serif
 }
-.yt{
-    color:#ffffff
-}
+
+.paddingrental {
+    padding: 70px;
+    border: 1px solid #000;
+  }
