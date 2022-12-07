@@ -22,9 +22,19 @@
     background-position: center top; 
     background-image:url(shop2.jpeg)
 }
-.fancytext { font-family:'Times New Roman', Times, serif;
+.fancytext { font-family: 'Great Vibes', cursive;
 
 }
+
+.fancytext h1 {
+    font-size:70px;
+
+}
+
+.fancytext h5 {
+    font-size: 30px;
+}
+
 a {
     color: #BB9E37
 }
@@ -60,3 +70,27 @@ body{
 h3 {
     color: #BB9E37
 }
+
+.abthead {
+    text-align:center;
+    color:#ffffff
+}
+
+.abtinfo {
+    text-align: center;
+    color:#ffffff
+}
+
+img {
+    padding:10px;
+    text-align:center;
+}
+hr {
+    color:white;
+}
+
+.center {
+    margin-left:50px;
+    margin-right: 50px;
+}
+
