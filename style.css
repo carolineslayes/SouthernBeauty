@@ -22,11 +22,22 @@
     background-position: center top; 
     background-image:url(shop2.jpeg)
 }
-.fancytext { font-family:'Times New Roman', Times, serif;
+.fancytext { font-family: 'Great Vibes', cursive;
 
 }
+
+.fancytext h1 {
+    font-size:70px;
+
+}
+
+.fancytext h5 {
+    font-size: 30px;
+}
+
 a {
     color: #BB9E37
+
 }
 b {
     text-align:center;
@@ -49,8 +60,12 @@ b {
 h4 {
     color:#ffffff
 }
-.homepagedresspic {
+.whiteborder {
     border: 3px solid #ffffff;
+}
+
+.gallery {
+    border: 3px solid #bb9e37
 }
 
 body{
@@ -77,3 +92,30 @@ h3 {
     color: white;
     font-size: 18px;
 }
+.mx-4{
+    font-family:'Times New Roman', Times, serif
+}
+
+.paddingrental {
+    padding: 70px;
+    border: 1px solid #000;
+  }
+.rentalheader {
+    color:#BB9E37;
+    text-align:center;
+}
+
+.rentalcontent
+{ color:white; text-align:center; }
+
+.hovercontainer 
+{ padding: 20px;  display: flex; flex-direction:  center; }
+
+.hoverbox 
+{ margin: 0 10px; box-shadow: 0 0 20px 2px rgba(0, 0, 0, .1)}
+
+.hoverbox img 
+{ display: block; width:100%; border-radius: 5px; }
+
+.hoverbox:hover 
+{ transform: scale(1.3); z-index:3; }
