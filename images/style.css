@@ -1,0 +1,96 @@
+.nav-link {
+    color: #bb9e37;
+}
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+.navbar {
+    color: #332d2d;
+}
+.navbar-brand {
+    color:#BB9E37;
+}
+.active {
+    background: transparent !important;
+    color:#BB9E37 !important;
+    border-bottom: 5px solid #BB9E37;
+
+    border-radius: 0px !important;
+}
+.indexpic {
+    height: 500px;
+    background-position: center top; 
+    background-image:url(shop2.jpeg)
+}
+.fancytext { font-family: 'Great Vibes', cursive;
+
+}
+
+.fancytext h1 {
+    font-size:70px;
+
+}
+
+.fancytext h5 {
+    font-size: 30px;
+}
+
+a {
+    color: #BB9E37
+}
+b {
+    text-align:center;
+}
+
+.bordered {
+
+    padding: 20px;
+    border: 5px solid #BB9E37;
+  }
+
+  .bordered2 {
+    padding:20px;
+    border: 1px solid #ffffff;
+  }
+
+  .names {
+    color:#ffffff
+  }
+h4 {
+    color:#ffffff
+}
+.homepagedresspic {
+    border: 3px solid #ffffff;
+}
+
+body{
+    background-color:#212024
+}
+
+h3 {
+    color: #BB9E37
+}
+
+.abthead {
+    text-align:center;
+    color:#ffffff
+}
+
+.abtinfo {
+    text-align: center;
+    color:#ffffff
+}
+
+img {
+    padding:10px;
+    text-align:center;
+}
+hr {
+    color:white;
+}
+
+.center {
+    margin-left:50px;
+    margin-right: 50px;
+}
+
