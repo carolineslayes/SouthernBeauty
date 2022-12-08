@@ -22,9 +22,19 @@
     background-position: center top; 
     background-image:url(shop2.jpeg)
 }
-.fancytext { font-family:'Times New Roman', Times, serif;
+.fancytext { font-family: 'Great Vibes', cursive;
 
 }
+
+.fancytext h1 {
+    font-size:70px;
+
+}
+
+.fancytext h5 {
+    font-size: 30px;
+}
+
 a {
     color: #BB9E37
 }
