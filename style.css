@@ -119,3 +119,12 @@ h3 {
 
 .hoverbox:hover 
 { transform: scale(1.3); z-index:3; }
+
+.abthead 
+{ color:#BB9E37; text-align:center; }
+
+.abtinfo 
+{ color:white; text-align:center; } 
+
+hr 
+{  color:white ; }
